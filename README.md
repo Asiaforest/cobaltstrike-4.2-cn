@@ -63,3 +63,5 @@ start_en.vbs 爲啓動英文原版。
 下載：
 
 https://github.com/makoto56/CobaltStrike-4.2-CN/releases/
+
+![image](https://github.com/makoto56/CobaltStrike-4.2-CN/blob/main/cs_4.2.png)
