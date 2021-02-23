@@ -1,10 +1,10 @@
-# cobaltStrike 4.2 正體中文&簡體中文版本
+# CobaltStrike 4.2 正體中文&簡體中文版本
 
 `主程序源自網路分享，是否存在後門請自行測試！`
 
 `翻譯：`
 
-最大程度進行翻譯，並保留原版英文指令，方便對照參考。
+**最大程度進行翻譯，並保留原版英文指令，方便對照參考。**
 
     -1 採用外掛中文包方式加載啓動，未修改原版程序。
 
@@ -38,7 +38,7 @@ https://github.com/pandasec888/taowu-cobalt-strike
 
 `字體：`
 
-搭配蘋方字體或微軟雅黑字體顯示效果更佳。
+**搭配蘋方字體或微軟雅黑字體顯示效果更佳。**
 
 `啓動：`
 
@@ -50,7 +50,7 @@ https://github.com/pandasec888/taowu-cobalt-strike
 
 `下載：`
 
-https://github.com/makoto56/CobaltStrike-4.2-CN/releases/
+**https://github.com/makoto56/CobaltStrike-4.2-CN/releases/**
 
 `預覽：`
 
