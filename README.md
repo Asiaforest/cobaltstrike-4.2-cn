@@ -49,4 +49,4 @@ https://github.com/pandasec888/taowu-cobalt-strike
 
 `預覽：`
 
-![image](https://github.com/makoto56/CobaltStrike-4.2-CN/blob/main/cs_4.2.png)
+![image](https://github.com/makoto56/cobaltstrike-4.2-cn/blob/main/cs_4.2.png)
