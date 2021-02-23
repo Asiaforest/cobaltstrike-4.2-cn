@@ -19,25 +19,39 @@
 =======================================================================
 
 插件：
+
 @DeEpinGh0st/Erebus
+
 https://github.com/DeEpinGh0st/Erebus
+
 @QAX-A-Team/EventLogMaster
+
 https://github.com/QAX-A-Team/EventLogMaster
+
 @k8gege/Ladon
+
 https://github.com/k8gege/Ladon
+
 @pandasec888/taowu-cobalt-strike
+
 https://github.com/pandasec888/taowu-cobalt-strike
+
 @AD Collection/作者未知
+
 @evel/作者未知
 
 =======================================================================
 
 字體：
+
 搭配蘋方字體或微軟雅黑字體顯示效果更佳。
 
 =======================================================================
 
 啓動：
+
 start_tw.vbs 爲啓動正體中文版；
+
 start_cn.vbs 爲啓動簡體中文版；
+
 start_en.vbs 爲啓動英文原版。
