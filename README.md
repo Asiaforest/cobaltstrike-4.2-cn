@@ -45,7 +45,7 @@ https://github.com/pandasec888/taowu-cobalt-strike
 
 `下載：`
 
-**https://github.com/makoto56/CobaltStrike-4.2-CN/releases/**
+**https://github.com/makoto56/cobaltstrike-4.2-cn/releases/**
 
 `預覽：`
 
