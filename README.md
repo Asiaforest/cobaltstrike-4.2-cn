@@ -16,25 +16,20 @@
 
 `插件：`
 
-- [x] @DeEpinGh0st/Erebus
-
+- [x] @DeEpinGh0st/Erebus  
 https://github.com/DeEpinGh0st/Erebus
 
-- [x] @QAX-A-Team/EventLogMaster
-
+- [x] @QAX-A-Team/EventLogMaster  
 https://github.com/QAX-A-Team/EventLogMaster
 
-- [x] @k8gege/Ladon
-
+- [x] @k8gege/Ladon  
 https://github.com/k8gege/Ladon
 
-- [x] @pandasec888/taowu-cobalt-strike
-
+- [x] @pandasec888/taowu-cobalt-strike  
 https://github.com/pandasec888/taowu-cobalt-strike
 
-- [x] @AD Collection/作者未知
-
-- [x] @evel/作者未知
+- [x] @AD Collection/作者未知  
+- [x] @evel/作者未知  
 
 `字體：`
 
