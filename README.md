@@ -57,3 +57,9 @@ start_tw.vbs 爲啓動正體中文版；
 start_cn.vbs 爲啓動簡體中文版；
 
 start_en.vbs 爲啓動英文原版。
+
+=======================================================================
+
+下載：
+
+https://github.com/makoto56/CobaltStrike-4.2-CN/releases/
